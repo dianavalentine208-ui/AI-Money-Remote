@@ -1,0 +1,4 @@
+UPDATE cinematic_clips SET file_path = '/__l5e/assets-v1/72e8ff1d-1674-4439-aa3c-80fb79f41c38/seed-vintage-office.mp4' WHERE id = 'c6e70abf-0ba8-4a54-b444-5b689eaf1b16';
+UPDATE cinematic_clips SET file_path = '/__l5e/assets-v1/5f9b1249-c40c-4113-9000-e87c36ee91f5/seed-forest-walk.mp4' WHERE id = '40ff630a-79a7-4e99-8912-018f22c7717c';
+UPDATE cinematic_clips SET file_path = '/__l5e/assets-v1/86f805a9-62e5-4f55-9499-4820f4ce9632/seed-neon-streets.mp4' WHERE id = 'ff6e3e48-be42-46c1-a21f-0f98b04aa903';
+UPDATE cinematic_clips SET file_path = '/__l5e/assets-v1/25ff9d76-55f8-49c0-bff1-9ad642a53916/seed-desk-setup.mp4' WHERE id = 'afe29ed2-b8cc-45fc-833b-9d8bf350298b';

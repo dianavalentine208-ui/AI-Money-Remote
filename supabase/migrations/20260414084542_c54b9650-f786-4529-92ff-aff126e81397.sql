@@ -1,0 +1,1 @@
+ALTER TABLE public.cinematic_clips ADD COLUMN thumbnail_url text;

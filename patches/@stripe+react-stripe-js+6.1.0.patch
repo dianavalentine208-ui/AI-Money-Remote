@@ -1,0 +1,16 @@
+diff --git a/node_modules/@stripe/react-stripe-js/src/components/createElementComponent.test.tsx b/node_modules/@stripe/react-stripe-js/src/components/createElementComponent.test.tsx
+index 4bc11a2..f699571 100644
+--- a/node_modules/@stripe/react-stripe-js/src/components/createElementComponent.test.tsx
++++ b/node_modules/@stripe/react-stripe-js/src/components/createElementComponent.test.tsx
+@@ -19,9 +19,11 @@ import {
+   IssuingCardPinDisplayElementComponent,
+   IssuingCardCopyButtonElementComponent,
+ } from '../types';
++import { describe, beforeEach, afterEach, it, expect, vi } from 'vitest';
+ 
+ const {Elements} = ElementsModule;
+ const {useCheckout} = CheckoutContextModule;
++const jest = vi;
+ 
+ describe('createElementComponent', () => {
+   let mockStripe: any;

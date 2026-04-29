@@ -1,0 +1,2 @@
+UPDATE cinematic_clips SET file_path = '/__l5e/assets-v1/618e06ff-4e36-4091-80d7-40586e36a5ba/clip-symmetrical-walk.mp4' WHERE id = '79f60b75-7a0a-48cd-814b-ed8555fee4f8';
+UPDATE cinematic_clips SET file_path = '/__l5e/assets-v1/12eba315-f442-4c45-b101-2a0164b86f9f/clip-amber-path.mp4' WHERE id = '3fd13fb7-068d-43a7-96a4-f555c53ba7f5';
